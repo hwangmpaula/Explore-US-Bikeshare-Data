@@ -1,5 +1,5 @@
 # Explore-US-Bikeshare-Data
-
+------------------------------------------------------------------------------------------------------------------------------
 # Project:
 
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world.
@@ -14,24 +14,15 @@ These technologies also provide a wealth of data that can be used to explore how
 In this project, The data is provided by Motivate, a bike share system provider for many major cities in the United States, 
 to uncover bike share usage patterns. 
 
-# The Datasets
+--------------------------------------------------------------------------------------------------------------------------------
 
-Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+# Goal to complete the Project 
 
-- Start Time (e.g., 2017-01-01 00:07:57)
-- End Time (e.g., 2017-01-01 00:20:53)
-- Trip Duration (in seconds - e.g., 776)
-- Start Station (e.g., Broadway & Barry Ave)
-- End Station (e.g., Sedgwick St & North Ave)
-- User Type (Subscriber or Customer)
-- The Chicago and New York City files also have the following two columns:
-
-- Gender
-- Birth Year
+In this project, I need to use the Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I also need to code to import the data and answer interesting questions about it by computing descriptive statistics. Plus, I make a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ##### The Goal to Complete the project:
 
-FIND: 
+               FIND: 
    
 ### 1) Popular times of travel (i.e., occurs most often in the start time)
 
@@ -64,7 +55,7 @@ FIND:
 - washington.csv : record of the city
 ### 
 
-##### Analyze-A-B-Test-Results uses some open source projects to work properly:
+##### Explore-US-Bikeshare-Data uses some open source projects to work properly:
 
 * [Python 3] - jupyter notebook is an open source and used to data analyze with python code
 * [ipython] - use it as a terminal
